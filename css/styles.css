@@ -1,0 +1,154 @@
+body{
+  margin: 0px;
+  font-family: 'Merriweather', serif;
+  text-align: center;
+  color: #40514E;
+}
+.top-container
+{
+  background-color: #EAF6F6;
+  position: relative;
+  padding-top: 100px;
+}
+.cloud-2
+{
+  position: absolute;
+  left: 200px;
+}
+.cloud-1
+{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+h1{
+  margin-top: 0px;
+  font-family: 'Sacramento',serif;
+  font-size: 5.625rem;
+  margin: 50px auto 0px auto;
+  color: #66BFBF;
+}
+h2{
+  font-family: 'Montserrat',sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+}
+h3{
+  font-family: 'Montserrat',sans-serif;
+  color: #11999E;
+}
+
+a{
+  color: #11999E;
+}
+
+.sub-title
+{
+  font-weight: normal;
+  line-height: 2;
+}
+
+.skills
+{
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+.skill-row
+{
+  width: 50%;
+  margin: 100px auto 200px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.img-1
+{
+  width:25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.img-2
+{
+  width:25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.profile-img
+{
+  margin-top: 100px;
+}
+
+.profile-desc
+{
+  color: #40514E;
+  margin-bottom: 100px;
+}
+
+hr
+{
+  border-style: dotted none none none;
+  width: 8%;
+  border-color: #EAF6F6;
+  border-width: 10px;
+}
+
+.contact-me
+{
+  line-height: 2;
+  margin-top: 100px;
+}
+
+.bottom-container
+{
+  background-color: #66BFBF;
+  padding: 50px;
+}
+
+.footer-desc
+{
+  padding-top: 10px;
+  margin-bottom: 0px;
+  color: #EAF6F6;
+  font-size: 0.75rem;
+}
+
+.BUTTON_KXY {
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+  height: 40px;
+  line-height: 40px;
+  color: #FFFFFF;
+  width: 175px;
+  font-size: 20px;
+  padding: 0;
+  background-color: #11999E;
+  border: solid #11999E 1px;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+  margin-bottom: 100px;
+  margin-top: 100px;
+}
+.contact-title
+{
+  margin-bottom: 50px;
+}
+
+.footer-link
+{
+  text-decoration: none;
+}
+
+.link1
+{
+  margin-right: 75px;
+}
+
+a:hover{
+  color: #EAF6F6
+}
